@@ -7,7 +7,7 @@ Draws the string at the given position.
 Parameters:
 xy – Top left corner of the text.
 text – Text to be drawn. If it contains any newline characters, the text is passed on to mulitiline_text()
-fill – Color to use for the text.
+fill – Color to use for the.
 font – An ImageFont instance.
 '''
 
